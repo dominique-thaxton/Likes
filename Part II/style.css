@@ -1,0 +1,101 @@
+*{margin: 0 auto;
+    }
+    #nav{
+        background-color: black;
+        color: white;
+        font-family:'Sans Serif';
+        font-style: normal;
+        height: 50px;
+        width: 550px;
+        padding: 5px 15px
+    }
+    .row{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .col, .col-2{
+        flex: 1.5;
+        
+    }
+    h2{display: flex;
+        justify-content: center;
+        font-size: xx-large;
+    }
+    .container{
+        display: flex;
+    }
+    .James_Doe_Box{
+        height: 200px;
+        width: 150px;
+        border: 2px black solid;
+        display:flex;
+        flex-direction: column;
+        justify-content: space-around;
+        font-weight:bold;
+        font-size: large;
+        margin-right: 20px;
+        margin-block-end: 120px;
+    }
+    .avatar_icon{
+        height: 75px;
+    }
+    .Neil_M{
+        height: 100px;
+        width: 400px;
+        border: 3px solid black;
+        margin-bottom: 10px;
+    }
+    .Neil_M_Row1{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 5px;
+    }
+    #Like{
+        border-radius: 0px;
+        padding: 5px 15px;
+        background-color: goldenrod;
+    }
+    .Neil_M_Row2{
+        margin-top: 5px;
+    }
+    .Nichole_K{
+        height: 100px;
+        width: 400px;
+        border: 3px solid black;
+        margin-bottom: 10px;
+    }
+    .Nichole_K_Row1{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 5px;
+    }
+    .Like{
+        border-radius: 0px;
+        padding: 5px 15px;
+        background-color: goldenrod;
+    }
+    .Nichole_K_Row2{
+        margin-top: 5px;
+    }
+    .Jim_R{
+        height: 100px;
+        width: 400px;
+        border: 3px solid black;
+    }
+    .Jim_R_Row1{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 5px;
+    }
+    #Like{
+        border-radius: 0px;
+        padding: 5px 15px;
+        background-color: goldenrod;
+    }
+    .Jim_R_Row2{
+        margin-top: 5px;
+    }

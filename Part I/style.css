@@ -1,0 +1,18 @@
+#container{
+    height: 100px;
+    width: 400px;
+    border: 3px solid black;
+}
+.Some_User_Row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#Like{
+    border-radius: 0px;
+    padding: 5px 15px;
+    background-color: goldenrod;
+}
+#Some_User_Row2{
+margin-left: 35px;
+}
